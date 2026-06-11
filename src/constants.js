@@ -90,7 +90,7 @@ export const projectData = [
   image: chatLogo,
   tags: ["React", "Node.js", "Socket.io", "MongoDB", "JWT", "Express"],
   github: "https://github.com/anjaliyadav1709/chat-app",
-  webapp: "full-stack-chat-app-dov7.onrender.com/ ",
+  webapp: "https://full-stack-chat-app-dov7.onrender.com/ ",
   detailedPoints: [
     "Developed a full-stack real-time messaging platform using React.js, Node.js, Express.js, Socket.io, and MongoDB.",
     "Implemented JWT-based authentication and secure user management.",
@@ -107,7 +107,7 @@ export const projectData = [
   image: tripLogo,
   tags: ["React", "Gemini AI", "Firebase", "Tailwind CSS", "JavaScript"],
   github: "https://github.com/anjaliyadav1709/ai-trip-planner",
-  webapp: "ai-trip-planner-two-inky.vercel.app/ ",
+  webapp: "https://ai-trip-planner-two-inky.vercel.app/ ",
   detailedPoints: [
     "Developed an AI-powered trip planning application for personalized travel recommendations.",
     "Integrated Gemini AI to generate dynamic travel itineraries based on user preferences.",
